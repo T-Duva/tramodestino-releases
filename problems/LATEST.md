@@ -1,3 +1,3 @@
-# smoke ok
+# Tramo Destino — archivo de problemas
 
-test desde setup
+(vacio — esperando señal Tomas Duva)
