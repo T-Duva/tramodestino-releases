@@ -1,7 +1,7 @@
 # Estado
 
-**estado:** pendiente
-**cuando:** 2026-08-06T22:59:28.688Z
-**versión app:** 4.0.0
+**estado:** revisado_en_chat
+**cuando:** 2026-08-07T00:40:00Z
+**fase:** 4.0.0
 
-Esperando escuchador en la PC.
+Revisado en Cursor: la pregunta de vision API no amerita update. Escuchador iniciado; espera mensajes nuevos.
