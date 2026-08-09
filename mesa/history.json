@@ -125,6 +125,12 @@
       "from": "cursor",
       "at": "2026-08-09T18:25:17.440Z",
       "text": "Verificado: el pedido habia llegado y el bot automatico NO lo hizo (dijo que lo viera otro). Lo hice yo ahora. Mesa 1.0.3: icono blanco y negro + ET arriba a la derecha (cuenta ~2 min hasta que respondo; despues dice ET:pronto). Al entrar deberia actualizarse sola. Si el icono no cambia, desinstalá Mesa y reinstala: https://github.com/T-Duva/tramodestino-releases/releases/download/mesa-v1.0.3/Mesa-1.0.3.apk"
+    },
+    {
+      "id": "c-1786300035061",
+      "from": "cursor",
+      "at": "2026-08-09T18:27:15.061Z",
+      "text": "Listo: saque 'pronto'. El ET siempre muestra tiempo (ET:1 min 20s, ET:45s, etc). Baja de 2 min; si se pasa, sigue contando el tiempo que llevas esperando. Nunca mas la palabra pronto."
     }
   ]
 }
