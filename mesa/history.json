@@ -173,6 +173,12 @@
       "from": "cursor",
       "at": "2026-08-09T18:44:25.520Z",
       "text": "Ahora el ET lo calcula el bot cuando arranca ese trabajo: cada mensaje da un tiempo distinto (un ok no es 3 min fijos). Si se alarga el laburo, lo ajusta. A 0: ET:OK. Mesa 1.0.8."
+    },
+    {
+      "id": "t-1786301188284",
+      "from": "tomas",
+      "at": "2026-08-09T18:46:28.284Z",
+      "text": "Ok perdón hablaba de tramo destino, volve a explicarme lo que dijiste arriba porque no lei"
     }
   ]
 }
