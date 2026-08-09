@@ -1,1 +1,8 @@
-{ "ok": true, "at": "2026-08-09T18:36:48.4194068Z" }
+{
+  "ok": true,
+  "at": "2026-08-09T18:37:46.678Z",
+  "busy": false,
+  "avgSec": 158,
+  "etaSec": 0,
+  "etaUntil": null
+}
