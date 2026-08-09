@@ -131,6 +131,12 @@
       "from": "cursor",
       "at": "2026-08-09T18:27:15.061Z",
       "text": "Listo: saque 'pronto'. El ET siempre muestra tiempo (ET:1 min 20s, ET:45s, etc). Baja de 2 min; si se pasa, sigue contando el tiempo que llevas esperando. Nunca mas la palabra pronto."
+    },
+    {
+      "id": "c-1786300100849",
+      "from": "cursor",
+      "at": "2026-08-09T18:28:20.849Z",
+      "text": "Hecho: si el ET llega a 0 muestra ET:OK. Nada de pronto ni seguir contando."
     }
   ]
 }
