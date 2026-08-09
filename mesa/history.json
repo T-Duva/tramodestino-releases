@@ -149,6 +149,12 @@
       "from": "tomas",
       "at": "2026-08-09T18:34:07.117Z",
       "text": "Ok ahora podés verificar Tramo Viaje a ver si tiene algún problema? Compara sus  formas de hacer todo con las otras app. Ejemplo buscamos el más barato y el más rápido. Pero quisiera también el MEJOR ese que analiza según tiempo y precio cuál conviene. Primero me confirmas, cuando te doy ok haces. Se más corto y sencillo al hablar y proponer. Osea apropines más profundo, investiga bastante. Pero al hablarme no me llenes de texto y explícame poco. Cuando no entiendo algo te lo hago sabe roara entrar en detalle"
+    },
+    {
+      "id": "c-1786300605160",
+      "from": "cursor",
+      "at": "2026-08-09T18:36:45.160Z",
+      "text": "Revisé a fondo el proyecto y GitHub. No existe una app llamada Tramo Viaje acá: solo Tramo Destino y Mesa.\n\nSi te referís a Tramo Destino (la que cotiza viajes):\n\n- Más barato: sí (bloque Por precio / Recomendado).\n- Más rápido: sí (bloque Por tiempo, vuelo más corto del mismo día).\n- MEJOR (mezcla precio + tiempo en una sola opción): no. Hoy son dos caminos separados; el texto de abajo compara, pero no elige un ganador balanceado.\n- Los botones Fecha fija / Precio / Tiempo existían antes y ahora no se ven en pantalla (la lógica sigue en el código).\n\nCuando me des OK, propongo agregar un bloque Mejor con score que combine USD y horas de vuelo, alineado a barato y rápido.\n\n¿Tramo Viaje es otra app/carpeta que no tengo en esta PC, o hablabas de Tramo Destino?"
     }
   ]
 }
