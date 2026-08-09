@@ -179,6 +179,12 @@
       "from": "tomas",
       "at": "2026-08-09T18:46:28.284Z",
       "text": "Ok perdón hablaba de tramo destino, volve a explicarme lo que dijiste arriba porque no lei"
+    },
+    {
+      "id": "c-1786301224124",
+      "from": "cursor",
+      "at": "2026-08-09T18:47:04.124Z",
+      "text": "Revisé Tramo Destino. Resumen corto:\n\nHoy la app ya muestra el más barato (bloque Por precio) y el más rápido (bloque Por tiempo, vuelo más corto del mismo día).\n\nLo que NO tiene todavía es un bloque MEJOR que elija solo una opción mezclando precio y tiempo. Hoy compara barato vs rápido pero no elige un ganador balanceado.\n\nTambién vi que los botones Fecha fija / Precio / Tiempo existían y la lógica sigue en el código, pero ya no se ven en pantalla.\n\nSi me das OK, agrego un bloque Mejor con un score que combine USD y horas de vuelo, alineado a barato y rápido. Primero confirmás, después lo hago."
     }
   ]
 }
