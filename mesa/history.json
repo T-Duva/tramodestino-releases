@@ -167,6 +167,12 @@
       "from": "cursor",
       "at": "2026-08-09T18:40:33.017Z",
       "text": "Perdon: ET no es cuanto esperaste. Es cuanto PUEDE tardar el bot en responder ese mensaje: chat ~3 min, cambio de codigo ~6 min, publicar APK ~10 min. Baja ese estimado; a 0 es ET:OK. Mesa 1.0.7."
+    },
+    {
+      "id": "c-1786301065520",
+      "from": "cursor",
+      "at": "2026-08-09T18:44:25.520Z",
+      "text": "Ahora el ET lo calcula el bot cuando arranca ese trabajo: cada mensaje da un tiempo distinto (un ok no es 3 min fijos). Si se alarga el laburo, lo ajusta. A 0: ET:OK. Mesa 1.0.8."
     }
   ]
 }
