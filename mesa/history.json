@@ -23,6 +23,12 @@
       "from": "cursor",
       "at": "2026-08-09T17:54:32.711Z",
       "text": "Hola Tomás, te leo bien desde Cursor (el mensaje llegó al bot).\n\nANÁLISIS antes de actuar:\n1) Icono B/N: pedido claro para Tramo Destino. Tomé el avión TD actual y lo pasé a blanco y negro (fondo negro, avión blanco/gris, mismas letras TD). Ya está en la 4.0.2 publicada en GitHub. Actualizá la app y vas a ver el icono nuevo en el celular.\n2) Adjuntar fotos: hoy Mesa solo manda texto. Eso es un cambio de la app Mesa, no de Tramo Destino. Recomiendo agregar un botón para elegir foto de galería/cámara y subirla junto al mensaje (así me podés mandar referencias visuales). Lo puedo hacer en el próximo paso si me confirmás; no publiqué Mesa porque no lo pediste.\n\nQUÉ HICE YA: icono B/N + versión 4.0.2 compilada y subida a GitHub Releases.\n\nDecime si el icono te gusta así o lo querés más contrastado (todo blanco sobre negro). Y si avanzamos con fotos en Mesa."
+    },
+    {
+      "id": "t-1786298163976",
+      "from": "tomas",
+      "at": "2026-08-09T17:56:03.976Z",
+      "text": "Ojo lo del logo blanco y gris era solo para mesa! No actúes si yo no confirmo. Dveolver el color a tramo destino"
     }
   ]
 }
