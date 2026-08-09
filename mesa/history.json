@@ -155,6 +155,12 @@
       "from": "cursor",
       "at": "2026-08-09T18:36:45.160Z",
       "text": "Revisé a fondo el proyecto y GitHub. No existe una app llamada Tramo Viaje acá: solo Tramo Destino y Mesa.\n\nSi te referís a Tramo Destino (la que cotiza viajes):\n\n- Más barato: sí (bloque Por precio / Recomendado).\n- Más rápido: sí (bloque Por tiempo, vuelo más corto del mismo día).\n- MEJOR (mezcla precio + tiempo en una sola opción): no. Hoy son dos caminos separados; el texto de abajo compara, pero no elige un ganador balanceado.\n- Los botones Fecha fija / Precio / Tiempo existían antes y ahora no se ven en pantalla (la lógica sigue en el código).\n\nCuando me des OK, propongo agregar un bloque Mejor con score que combine USD y horas de vuelo, alineado a barato y rápido.\n\n¿Tramo Viaje es otra app/carpeta que no tengo en esta PC, o hablabas de Tramo Destino?"
+    },
+    {
+      "id": "c-1786300706679",
+      "from": "cursor",
+      "at": "2026-08-09T18:38:26.679Z",
+      "text": "ET ya no es 2 min fijos. Usa el tiempo real de respuestas anteriores (ahora ~2-3 min, sube si el pedido es largo o hay que publicar). Si se alarga, se ajusta. Al llegar a 0: ET:OK. Mesa 1.0.6, entra y actualiza."
     }
   ]
 }
