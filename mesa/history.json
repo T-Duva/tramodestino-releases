@@ -197,6 +197,12 @@
       "from": "cursor",
       "at": "2026-08-09T18:51:24.245Z",
       "text": "Tomás,\n\nSobre Mesa y copiar texto: el chat se refrescaba solo cada 2 segundos y eso borraba la selección antes de que pudieras copiar. Ya lo arreglé en el código. Para tenerlo en el celu hay que actualizar Mesa; si me decís, la publico.\n\nSobre “también vi… hasta pantalla”: no es un botón de Tramo Destino. Yo te contaba que antes existían botones Fecha fija / Precio / Tiempo; hoy ya no se ven en pantalla, pero la app sigue mostrando Por precio y Por tiempo en el informe.\n\nSobre “mismo día”: en Por tiempo no cambia la fecha de ida. Muestra el vuelo más corto del mismo día que el más barato (Por precio). Alternativa es otra fecha distinta solo para comparar.\n\n¿Publico Mesa con lo del copiar texto?"
+    },
+    {
+      "id": "t-1786301746320",
+      "from": "tomas",
+      "at": "2026-08-09T18:55:46.320Z",
+      "text": "Hace lo de copiar texto. Y analiza bien como es lo del MEJOR que te dije antes"
     }
   ]
 }
