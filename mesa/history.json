@@ -47,6 +47,12 @@
       "from": "tomas",
       "at": "2026-08-09T17:58:34.503Z",
       "text": "Si no me equivoco te actualizas (el chat) cada 8 minutos, reducido a 2 minutos."
+    },
+    {
+      "id": "c-1786298639071",
+      "from": "cursor",
+      "at": "2026-08-09T18:03:59.072Z",
+      "text": "Te confirmo qué pasó:\n\n1) Tus mensajes SÍ llegaron (Hola + logo solo Mesa + fotos + refresco). El primero lo contestó el bot automático en la PC.\n\n2) Después el escuchador se TRABÓ (el agent no cerró bien) y no pudo responder lo que mandaste después. Por eso en el celu no viste nada nuevo. El chat se refresca cada 8 SEGUNDOS, no 8 minutos; si la app está minimizada, no pide hasta que la abrís.\n\n3) Pedidos pendientes (los leo, todavía no los hago en este mensaje):\n- Devolver el icono COLOR a Tramo Destino (el B/N era solo para Mesa). Perdón: el bot automático actuó de más.\n- Adjuntar fotos en Mesa: vamos.\n- Refresco: ya lo dejo en 2 segundos (no 2 minutos: 2 min sería más lento).\n\nAbrí Mesa de nuevo / scrolleá arriba: esta respuesta tiene que aparecer. El escuchador lo reinicio ahora."
     }
   ]
 }
