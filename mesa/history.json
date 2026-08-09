@@ -137,6 +137,12 @@
       "from": "cursor",
       "at": "2026-08-09T18:28:20.849Z",
       "text": "Hecho: si el ET llega a 0 muestra ET:OK. Nada de pronto ni seguir contando."
+    },
+    {
+      "id": "c-1786300182377",
+      "from": "cursor",
+      "at": "2026-08-09T18:29:42.377Z",
+      "text": "Correcto: el ET es el tiempo que falta hasta que responda el bot (cuenta hacia atras). Nunca el tiempo que ya esperaste. Cuando llega a 0: ET:OK. Eso ya esta en Mesa 1.0.5."
     }
   ]
 }
