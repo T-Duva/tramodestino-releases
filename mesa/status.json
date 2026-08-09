@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "at": "2026-08-09T18:38:55.734Z",
+  "at": "2026-08-09T18:40:34.689Z",
   "busy": false,
-  "avgSec": 261,
   "etaSec": 0,
-  "etaUntil": null
+  "etaUntil": null,
+  "etaTotal": 480
 }
