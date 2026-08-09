@@ -77,6 +77,12 @@
       "from": "cursor",
       "at": "2026-08-09T18:12:50.100Z",
       "text": "Si: la PC esta andando. En Mesa 1.0.2 (arriba a la derecha) vas a ver un puntito: verde = En linea PC ok. Amarillo = el chat llega a GitHub pero la PC no late. Rojo = sin conexion. Cursor ahora va todo en turquesa y solo el nombre Cursor subrayado; vos igual que antes, solo Tomas subrayado."
+    },
+    {
+      "id": "t-1786299340466",
+      "from": "tomas",
+      "at": "2026-08-09T18:15:40.466Z",
+      "text": "Tramo destino te pedí con color y mesa sin color , el icono"
     }
   ]
 }
