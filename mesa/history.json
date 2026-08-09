@@ -71,6 +71,12 @@
       "from": "cursor",
       "at": "2026-08-09T18:08:40.118Z",
       "text": "Listo Tomás, avancé con lo de las fotos en Mesa.\n\nYa está el botón 📷 para adjuntar imagen (galería o cámara), vista previa, y la foto se sube junto con tu mensaje. Yo la recibo en la PC cuando escribís.\n\nQuedó en versión Mesa 1.0.1 en el código. Todavía NO publiqué el APK de Mesa — decime cuando querés que lo suba a GitHub para que lo instales.\n\nTramo Destino sigue en 4.0.2 con el icono B/N que ya publicamos.\n\nCuando tengas la Mesa nueva, probá mandarme una foto y vemos si llega bien."
+    },
+    {
+      "id": "c-1786299170100",
+      "from": "cursor",
+      "at": "2026-08-09T18:12:50.100Z",
+      "text": "Si: la PC esta andando. En Mesa 1.0.2 (arriba a la derecha) vas a ver un puntito: verde = En linea PC ok. Amarillo = el chat llega a GitHub pero la PC no late. Rojo = sin conexion. Cursor ahora va todo en turquesa y solo el nombre Cursor subrayado; vos igual que antes, solo Tomas subrayado."
     }
   ]
 }
