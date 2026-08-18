@@ -209,6 +209,12 @@
       "from": "cursor",
       "at": "2026-08-09T18:56:56.724Z",
       "text": "Tomás,\n\nListo lo del copiar texto en Mesa. El chat se refrescaba cada 2 segundos y eso borraba la selección. Ya no pasa. Publiqué Mesa 1.0.9: al abrir la app te ofrece actualizar, o instalá desde GitHub (mesa-v1.0.9). Mantené pulsado un mensaje y copiá.\n\nSobre MEJOR en Tramo Destino: hoy tenés Por precio (el más barato del mes) y Por tiempo (el vuelo más corto del mismo día que el de precio, no busca otra fecha). Eso son dos caminos separados; no hay un tercero que elija uno solo mezclando precio y horas.\n\nMEJOR sería un bloque nuevo: entre todas las cotizaciones, un puntaje que combine USD y duración del vuelo (ej. 55% precio, 45% tiempo), normalizado. Puede caer en otra fecha si conviene (un poco más caro pero mucho más corto), o en la misma del barato si ya está bien. Distinto de Por precio y de Por tiempo.\n\nCuando me des OK lo agrego en Tramo Destino como tercer bloque Mejor en el informe."
+    },
+    {
+      "id": "t-1787089079805",
+      "from": "tomas",
+      "at": "2026-08-18T21:37:59.805Z",
+      "text": "No quiero que lo llames nunca más turismcity. Quisiera lo llames Viajes hablo bot de telegram . Podés ? O tendria q hacer desde la PC?"
     }
   ]
 }
