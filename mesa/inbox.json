@@ -1,9 +1,8 @@
 {
-  "id": "t-1787089079805",
-  "at": "2026-08-18T21:37:59.805Z",
-  "text": "No quiero que lo llames nunca más turismcity. Quisiera lo llames Viajes hablo bot de telegram . Podés ? O tendria q hacer desde la PC?",
-  "pending": false,
+  "id": "t-1787089575198",
+  "at": "2026-08-18T21:46:15.198Z",
+  "text": "Si te hablo así hablo general? O hablo con alguno en específico?",
+  "pending": true,
   "etaSec": 90,
-  "via": "telegram",
-  "answeredAt": "2026-08-18T21:38:19.195Z"
+  "via": "telegram"
 }
