@@ -1,9 +1,9 @@
 {
   "ok": true,
-  "at": "2026-08-18T21:46:27.284Z",
-  "busy": true,
-  "phase": "work",
-  "etaSec": 99,
-  "etaUntil": "2026-08-18T21:48:06.282Z",
-  "etaTotal": 101
+  "at": "2026-08-18T21:46:41.147Z",
+  "busy": false,
+  "phase": "",
+  "etaSec": 0,
+  "etaUntil": null,
+  "etaTotal": 0
 }
